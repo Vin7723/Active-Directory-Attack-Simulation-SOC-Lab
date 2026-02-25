@@ -55,3 +55,19 @@ Sysmon Configuration
 MITRE ATT&CK Mapping
 Threat Detection & Analysis
 SOC Operations
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+## 🧪 Enumeration Execution
+
+![Enumeration](screenshots/enumeration_commands.png)
+
+## 🚨 Detection – MITRE T1087 (Account Discovery)
+
+![T1087 Detection](screenshots/wazuh_t1087_detection.png)
+
+## 📊 Wazuh Dashboard Overview
+
+![Dashboard](screenshots/wazuh_dashboard_overview.png)
